@@ -1,0 +1,2 @@
+Welcome to the Home Page!
+This content can be edited via the home.txt file.
